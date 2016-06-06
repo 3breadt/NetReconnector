@@ -1,5 +1,5 @@
 # NetReconnector
-The script for linux to reconnect net.
+The script for linux to reconnect net. The wifi of raspberrypi lost connection frequently, so this is for it.
 
 1.put the script into the home dir, like: /home/pi
 
