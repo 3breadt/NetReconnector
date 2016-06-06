@@ -6,7 +6,7 @@ The script for linux to reconnect net.
 2.edit the parameter in the script
 ```
 vim NetReconnector.sh
-# NetCard, Router must be reset.
+# NetCard and PingTarget should be modified.
 ```
 
 2.add x priority to the script
