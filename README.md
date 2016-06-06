@@ -3,6 +3,12 @@ The script for linux to reconnect net.
 
 1.put the script into the home dir, like: /home/pi
 
+2.edit the parameter in the script
+```
+vim NetReconnector.sh
+# NetCard, Router must be reset.
+```
+
 2.add x priority to the script
 ```
 chmod +x NetReconnector.sh
