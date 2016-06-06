@@ -1,5 +1,5 @@
 #!/bin/bash
-# by nickwang
+# by nickwang wxlcat@gmail.com
 
 Debug=false
 NetCard=wlan0
